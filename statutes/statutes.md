@@ -53,7 +53,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 (2) The Association shall work as transparent as possible, regarding the protection of personal data and the right to privacy of the people involved.
 
-(3) The Association shall take into account the opinions of the individual Pirates who are members of any of the member parties. Important decisions shall be based on democratic principles for the inner workings of the Association.
+(3) The Association shall take into account the opinions of the individual Pirates who are members of any of the members. Decisions shall be based on democratic principles for the inner workings of the Association.
 
 (4) The Association shall adhere to all regulations necessary to being recognized as a Party at European level and a non-profit organization in Luxemburg.
 
@@ -149,7 +149,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 (1) A Member that changes their name or merges with another political party/organisation must inform the Board.
 
-(2) The Board shall assess the degree of continuity of the new party/organisation with the Association's member and will decide on the confirmation of the membership status. 
+(2) The Board shall assess the degree of continuity and membeship criteria fulfillment of the new party/organisation with the Association's member and will decide on the confirmation of the membership status. 
 
 (3) In case of confirmation of the continuity of the membership status; the member will be considered having accepted the Association's decisions applicable to the former member and will be responsible for all its obligations vis-à-vis the Association, including financial.
 
@@ -211,7 +211,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 ### Organs
 
-##### Council
+#### Council
 
 ##### Article 15 – Composition and Powers of the Council
 
