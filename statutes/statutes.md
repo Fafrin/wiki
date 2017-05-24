@@ -85,14 +85,15 @@ agree to create an international non-profit association according to Luxembourgi
 ##### Article 7 – Ordinary Members
 
 (1) Eligible as Ordinary Members are all parties which
-* a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them) in a country or state of the European Union OR in a country or state which territory lies at least partly in the geographical Europe,
-* b) are not subordinate to any other party in this country or state,
-* c) carry the term „Pirate“ or any translation of that term somewhere in their party name,
-* d) intend to participate in elections to the European Parliament or their national parliament,
-* e) maintain a democratic political base and a democratic internal structure,
-* f) are politically active,
-* g) accept and comply with the regulations of these Statutes and orders of its bodies, and
-* h) accept the Pirate Manifesto.
+* a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them),
+* b) are established in a Member state of the European Union or in other [Europian State](https://en.wikisource.org/wiki/Consolidated_version_of_the_Treaty_on_European_Union/Title_VI:_Final_Provisions#Article_49),
+* c) are not subordinate to any other party in this country or state,
+* d) carry the term „Pirate“ or any translation of that term somewhere in their party name,
+* e) intend to participate in elections to the European Parliament or their national parliament,
+* f) maintain a democratic political base and a democratic internal structure,
+* g) are politically active,
+* h) accept and comply with the regulations of these Statutes and orders of its bodies, and
+* i) accept the Pirate Manifesto.
 
 (2) Ordinary Members have the following obligations:
 * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
