@@ -236,6 +236,8 @@ agree to create an international non-profit association according to Luxembourgi
 (5) On the proposal of one-third of the Ordinary Members any member of the Board may be dismissed by the Council by a two-thirds majority of the votes cast after debate in Council where the member is given adequate opportunity to present their case.
 Meetings
 
+***Meetings***
+
 (6) The Council will meet at least once in a calendar year, more often if requested by at least quarter of the Ordinary Members or by a decision of the Board or Council. 
 
 (7) Council meetings are normally open to the public unless the Council itself decides otherwise for all or part of its proceedings. This shall be the exception and may only be decided for reasons of protecting the data of an individual or for similar concerns.
@@ -244,7 +246,7 @@ Meetings
 
 (9) The Board will prepare the meetings. For Ordinary meetings all members shall be invited by email at least 4 weeks before the date of the Council meeting. In urgent cases, Extraordinary meeting may be called in shortened time. Only the item for which it was called may be decided on extraordinary meetings. Decisions on admittance, of a Member, Statutes Change or dissolution of the Association may not be decided on Extraordinary meeting.). The invitation to the Council meeting has to specify date, time, place and the draft agenda of the meeting. A link to a website with the agenda in the invitation shall be sufficient and necessary.
 
-(10) Save in the cases provided for in Articles 6 and 8 of the Luxembourgish law of 21 April 1929 on non-profit associations (ASBL) and foundations, as amended, the meeting may legitimately consider items not announced on the agenda, provided that all members of the Council are present and/or represented and so agree at the meeting by a simple majority vote of all the voting Ordinary Members.
+(10) Save in the cases provided for in Articles 6 and 8 of the Luxembourgish law of 21 April 1929 on non-profit associations (ASBL) and foundations, as amended, the meeting may legitimately consider items not announced on the agenda, provided that all Ordinary Members are represented and so agree at the meeting by a simple majority vote.
 
 (11) Minutes of all Council meetings will be published on an appropriate website of the Association at the latest six weeks after a Council meeting. The minutes shall entail all decisions of the Council and the votes all delegates with voting rights.
 
